@@ -18,6 +18,7 @@ Indicadores financieros: Rentabilidad, costo total y margen de ganancia.
 ## Requerimiento:
 
 Diseña el modelo entidad-relación (ER).
+![Diagrama E-R drawio](https://github.com/user-attachments/assets/c00aad4b-793c-4d7c-a947-1486a23b4310)
 
 Indica las claves primarias y foráneas.
 

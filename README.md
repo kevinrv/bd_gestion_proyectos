@@ -27,6 +27,10 @@ Normaliza hasta la 3NF.
 
 ![gestión-de-proyectos_1](https://github.com/user-attachments/assets/b65546d1-7507-4d58-aa1b-2637892ef0fd)
 
+Modelo Físico:
+![image](https://github.com/user-attachments/assets/721ffce4-2cd6-4ec5-91ca-c619ff0e5a03)
+
+
 
 Proporciona al menos dos métricas financieras que puedan calcularse.
 

@@ -23,6 +23,11 @@ web_url VARCHAR (100),
 tipo VARCHAR(100)
 );
 Go
+
+-- Restricción UNIQUE para el campo identificador_cliente en la tabla clientes
+ALTER TABLE clientes
+ADD CONSTRAINT identificador_cliente_CONSTRAINT UNIQUE (identificador_cliente);
+
 --- Tabla puestos/cargos
 CREATE TABLE profesiones (
 id INT IDENTITY(1,1) PRIMARY KEY,
@@ -44,7 +49,19 @@ fecha_ingreso DATE NOT NULL,
 tiempo_contrato INT,
 CONSTRAINT fk_profesion_id FOREIGN KEY (profesion_id) REFERENCES profesiones(id));
 
---DROP TABLE empleados;
+--- Alter Column "Apellido_materno" por "apellido_materno"
+ALTER TABLE empleados
+DROP COLUMN Apellido_materno;
+
+ALTER TABLE empleados
+ADD apellido_materno VARCHAR (155);
+
+---- Alter Column "Tiempo_contrato" por "fecha_fin_contrato"
+ALTER TABLE empleados
+DROP COLUMN tiempo_contrato;
+
+ALTER TABLE empleados
+ADD fecha_fin_contrato DATE;
 
 ---Tabla proyectos
 

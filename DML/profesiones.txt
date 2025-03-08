@@ -1,0 +1,21 @@
+profesion
+Ingeniero de Software
+Analista de Datos
+Administrador de Empresas
+Contador Público
+Economista
+Ingeniero Civil
+Arquitecto
+Consultor Financiero
+Especialista en Marketing Digital
+Desarrollador Web
+Analista de Negocios
+Ingeniero Industrial
+Jefe de Proyectos TI
+Diseñador UX/UI
+Auditor Financiero
+Ingeniero Electrónico
+Científico de Datos
+Gerente de Operaciones
+Abogado Corporativo
+Especialista en Recursos Humanos

@@ -61,6 +61,12 @@ Tendencias de ingresos y costos en el tiempo.
 Identificación de proyectos con sobrecostos y riesgo financiero.
 Ejercicio Propuesto
 ### Diseña un modelo de datos multidimensional adecuado para este sistema de BI (esquema estrella o copo de nieve).
+![image](https://github.com/user-attachments/assets/caec4ebe-3a42-4201-acfd-892b4d0f345d)
+
 ### Define los hechos y dimensiones necesarias.
+![image](https://github.com/user-attachments/assets/a7c7c5f3-fbfc-477b-a854-a834b9076e18)
+
 ### Propuesta de visualizaciones clave para los dashboards.
 ### (Opcional) Generar un conjunto de consultas SQL para extraer insights clave.
+
+

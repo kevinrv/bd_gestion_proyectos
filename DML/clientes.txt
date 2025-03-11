@@ -1,31 +1,31 @@
 codigo	nombre	sector	pais	email	telefono	identificador_cliente	direccion	web_url
-0001JK	JKC Tecnología e Información	TECH	PERÚ	jkcit@gmail.com	32165894	12345678910	Huaraz-Ancash	www.jkctecnologiaeinformacion.com
-0002EM	Empresa Alpha S.A.	TECH	PERÚ	emp@gmail.com	1857687	20100000001	AV. Industrial 123	www.empresaalphasa.com
-0003BE	Beta Corp.	TECH	PERÚ	bet@gmail.com	1857687	20100000002	Calle Comercio 456	www.betacorp.com
-0004GA	Gamma S.R.L.	TECH	PERÚ	gam@gmail.com	1857687	20100000003	Av. Producción 789	www.gammasrl.com
-0005DE	Delta y Asociados	TECH	PERÚ	del@gmail.com	1857687	20100000004	Calle Negocios 101	www.deltayasociados.com
-0006EP	Epsilon Ltda.	TECH	PERÚ	eps@gmail.com	1857687	20100000005	Av. Servicios 202	www.epsilonltda.com
-0007ZE	Zeta Consultores	TECH	PERÚ	zet@gmail.com	1857687	20100000006	Calle Soluciones 303	www.zetaconsultores.com
-0008TH	Theta Innovaciones	TECH	PERÚ	the@gmail.com	1857687	20100000007	Av. Proyectos 404	www.thetainnovaciones.com
-0009IO	Iota Ingeniería S.A.C.	TECH	PERÚ	iot@gmail.com	1857687	20100000008	Calle Desarrollo 505	www.iotaingenieriasac.com
-00010KA	Kappa Tecnología	TECH	PERÚ	kap@gmail.com	1857687	20100000009	Av. Avances 606	www.kappatecnologia.com
-00011LA	Lambda Construcciones	TECH	PERÚ	lam@gmail.com	1857687	20100000010	Calle Obras 707	www.lambdaconstrucciones.com
-00012MU	Mu Financiera	TECH	PERÚ	mu @gmail.com	1857687	20100000011	Av. Capital 808	www.mufinanciera.com
-00013NU	Nu Servicios S.A.	TECH	PERÚ	nu @gmail.com	1857687	20100000012	Calle Asesoría 909	www.nuserviciossa.com
-00014XI	Xi Consultoría	TECH	PERÚ	xi @gmail.com	1857687	20100000013	Av. Estrategia 1010	www.xiconsultoria.com
-00015OM	Omicron Logística	TECH	PERÚ	omi@gmail.com	1857687	20100000014	Calle Distribución 1111	www.omicronlogistica.com
-00016PI	Pi Internacional	TECH	PERÚ	pi @gmail.com	1857687	20100000015	Av. Comercio Exterior 1212	www.piinternacional.com
-00017RH	Rho Exportaciones	TECH	PERÚ	rho@gmail.com	1857687	20100000016	Calle Global 1313	www.rhoexportaciones.com
-00018SI	Sigma Importaciones	TECH	PERÚ	sig@gmail.com	1857687	20100000017	Av. Importadores 1414	www.sigmaimportaciones.com
-00019TA	Tau Energía S.A.	TECH	PERÚ	tau@gmail.com	1857687	20100000018	Calle Recursos 1515	www.tauenergiasa.com
-00020UP	Upsilon Tecnológica	TECH	PERÚ	ups@gmail.com	1857687	20100000019	Av. Innovación 1616	www.upsilontecnologica.com
-00021PH	Phi Construcciones	TECH	PERÚ	phi@gmail.com	1857687	20100000020	Calle Edificaciones 1717	www.phiconstrucciones.com
-00022CH	Chi Industrial	TECH	PERÚ	chi@gmail.com	1857687	20100000021	Av. Manufactura 1818	www.chiindustrial.com
-00023PS	Psi Consultores	TECH	PERÚ	psi@gmail.com	1857687	20100000022	Calle Planeación 1919	www.psiconsultores.com
-00024OM	Omega Global S.A.C.	TECH	PERÚ	ome@gmail.com	1857687	20100000023	Av. Internacional 2020	www.omegaglobalsac.com
-00025AL	Alpha Soluciones	TECH	PERÚ	alp@gmail.com	1857687	20100000024	Calle Innovación 2121	www.alphasoluciones.com
-00026BE	Beta Tech	TECH	PERÚ	bet@gmail.com	1857687	20100000025	Av. Tecnología 2222	www.betatech.com
-00027GA	Gamma Logística	TECH	PERÚ	gam@gmail.com	1857687	20100000026	Calle Distribución 2323	www.gammalogistica.com
-00028DE	Delta Asesoría	TECH	PERÚ	del@gmail.com	1857687	20100000027	Av. Negocios 2424	www.deltaasesoria.com
-00029EP	Epsilon Innovación	TECH	PERÚ	eps@gmail.com	1857687	20100000028	Calle Futuro 2525	www.epsiloninnovacion.com
-00030ZE	Zeta Proyectos	TECH	PERÚ	zet@gmail.com	1857687	20100000029	Av. Emprendedores 2626	www.zetaproyectos.com
+0001JK	JKC Tecnología e Información	TECH	PERÚ	tecnojkcit@gmail.com	32165894	12345678910	Huaraz-Ancash	www.jkctecnologiaeinformacion.com
+0002EM	Empresa Alpha S.A.	TECH	PERÚ	resa_aemp@gmail.com	1857687	20100000001	AV. Industrial 123	www.empresaalphasa.com
+0003BE	Beta Corp.	TECH	PERÚ	a_corpbet@gmail.com	1857687	20100000002	Calle Comercio 456	www.betacorp.com
+0004GA	Gamma S.R.L.	TECH	PERÚ	ma_s.rgam@gmail.com	1857687	20100000003	Av. Producción 789	www.gammasrl.com
+0005DE	Delta y Asociados	TECH	PERÚ	ta_y_adel@gmail.com	1857687	20100000004	Calle Negocios 101	www.deltayasociados.com
+0006EP	Epsilon Ltda.	TECH	PERÚ	ilon_leps@gmail.com	1857687	20100000005	Av. Servicios 202	www.epsilonltda.com
+0007ZE	Zeta Consultores	TECH	PERÚ	a_conszet@gmail.com	1857687	20100000006	Calle Soluciones 303	www.zetaconsultores.com
+0008TH	Theta Innovaciones	TECH	PERÚ	ta_innthe@gmail.com	1857687	20100000007	Av. Proyectos 404	www.thetainnovaciones.com
+0009IO	Iota Ingeniería S.A.C.	TECH	PERÚ	a_ingeiot@gmail.com	1857687	20100000008	Calle Desarrollo 505	www.iotaingenieriasac.com
+00010KA	Kappa Tecnología	TECH	PERÚ	pa_teckap@gmail.com	1857687	20100000009	Av. Avances 606	www.kappatecnologia.com
+00011LA	Lambda Construcciones	TECH	PERÚ	bda_colam@gmail.com	1857687	20100000010	Calle Obras 707	www.lambdaconstrucciones.com
+00012MU	Mu Financiera	TECH	PERÚ	financmu_@gmail.com	1857687	20100000011	Av. Capital 808	www.mufinanciera.com
+00013NU	Nu Servicios S.A.	TECH	PERÚ	servicnu_@gmail.com	1857687	20100000012	Calle Asesoría 909	www.nuserviciossa.com
+00014XI	Xi Consultoría	TECH	PERÚ	consulxi_@gmail.com	1857687	20100000013	Av. Estrategia 1010	www.xiconsultoria.com
+00015OM	Omicron Logística	TECH	PERÚ	cron_lomi@gmail.com	1857687	20100000014	Calle Distribución 1111	www.omicronlogistica.com
+00016PI	Pi Internacional	TECH	PERÚ	internpi_@gmail.com	1857687	20100000015	Av. Comercio Exterior 1212	www.piinternacional.com
+00017RH	Rho Exportaciones	TECH	PERÚ	exporrho@gmail.com	1857687	20100000016	Calle Global 1313	www.rhoexportaciones.com
+00018SI	Sigma Importaciones	TECH	PERÚ	ma_impsig@gmail.com	1857687	20100000017	Av. Importadores 1414	www.sigmaimportaciones.com
+00019TA	Tau Energía S.A.	TECH	PERÚ	energtau@gmail.com	1857687	20100000018	Calle Recursos 1515	www.tauenergiasa.com
+00020UP	Upsilon Tecnológica	TECH	PERÚ	ilon_tups@gmail.com	1857687	20100000019	Av. Innovación 1616	www.upsilontecnologica.com
+00021PH	Phi Construcciones	TECH	PERÚ	constphi@gmail.com	1857687	20100000020	Calle Edificaciones 1717	www.phiconstrucciones.com
+00022CH	Chi Industrial	TECH	PERÚ	induschi@gmail.com	1857687	20100000021	Av. Manufactura 1818	www.chiindustrial.com
+00023PS	Psi Consultores	TECH	PERÚ	consupsi@gmail.com	1857687	20100000022	Calle Planeación 1919	www.psiconsultores.com
+00024OM	Omega Global S.A.C.	TECH	PERÚ	ga_gloome@gmail.com	1857687	20100000023	Av. Internacional 2020	www.omegaglobalsac.com
+00025AL	Alpha Soluciones	TECH	PERÚ	ha_solalp@gmail.com	1857687	20100000024	Calle Innovación 2121	www.alphasoluciones.com
+00026BE	Beta Tech	TECH	PERÚ	a_techbet@gmail.com	1857687	20100000025	Av. Tecnología 2222	www.betatech.com
+00027GA	Gamma Logística	TECH	PERÚ	ma_loggam@gmail.com	1857687	20100000026	Calle Distribución 2323	www.gammalogistica.com
+00028DE	Delta Asesoría	TECH	PERÚ	ta_asedel@gmail.com	1857687	20100000027	Av. Negocios 2424	www.deltaasesoria.com
+00029EP	Epsilon Innovación	TECH	PERÚ	ilon_ieps@gmail.com	1857687	20100000028	Calle Futuro 2525	www.epsiloninnovacion.com
+00030ZE	Zeta Proyectos	TECH	PERÚ	a_proyzet@gmail.com	1857687	20100000029	Av. Emprendedores 2626	www.zetaproyectos.com

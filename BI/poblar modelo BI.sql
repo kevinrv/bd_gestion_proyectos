@@ -52,3 +52,48 @@ WHILE @counter < 175
 	SET @counter = @counter +1
 END
 
+--- GENERANDO DATA DE FECHA TERMINO DE ASIGNACIÓN
+DECLARE @counter INT;
+SET @counter=1;
+
+WHILE @counter < 175
+    BEGIN
+	UPDATE detalles_equipos SET fecha_termino_asignacion=DATEADD(MONTH,(ROUND(RAND()*60,1)),fecha_asignacion)
+	WHERE id=@counter
+	SET @counter = @counter +1
+END
+
+
+
+
+-- Fac table
+SELECT*FROM detalles_equipos;
+
+SELECT
+	fecha_asignacion,
+	e.id AS 'equipo_id',
+	de.empleado_id,
+	e.proyecto_id,
+	de.horas_asignadas * 20 AS 'horas_asignadas',
+	(de.horas_asignadas*p.costo_hora) * 20 AS 'monto_facturado',
+	DATEDIFF(MONTH,fecha_asignacion,fecha_termino_asignacion) AS 'tiempo_asignado_meses'
+FROM detalles_equipos de
+	INNER JOIN equipos e ON e.id=de.equipo_id
+	INNER JOIN proyectos p ON p.id=e.proyecto_id;
+
+
+--- Generando costos_hora en proyectos
+
+DECLARE @counter INT;
+SET @counter=3;
+
+WHILE @counter < 13
+    BEGIN
+	UPDATE proyectos SET costo_hora=ROUND(RAND()*100+100,0)
+	WHERE id=@counter
+	SET @counter = @counter +1
+END
+
+
+
+

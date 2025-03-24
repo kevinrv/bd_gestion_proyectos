@@ -1,0 +1,10 @@
+id,nombre,meses_proyecto,total_horas_dia,total_horas_mes,factura_total_mes,costo_total_proyecto
+3,Sistema de Gestión Financiera,5,64.00,1280.00,64000.00,320000.00
+4,Implementación de ERP,6,48.00,960.00,48000.00,288000.00
+5,Desarrollo de App Móvil,6,64.00,1280.00,64000.00,384000.00
+6,Automatización de Procesos,8,60.00,1200.00,60000.00,480000.00
+7,Migración a la Nube,6,56.00,1120.00,56000.00,336000.00
+8,Análisis de Datos Avanzado,6,44.00,880.00,44000.00,264000.00
+9,Ciberseguridad Empresarial,6,40.00,800.00,40000.00,240000.00
+10,Optimización de Logística,6,64.00,1280.00,64000.00,384000.00
+11,Desarrollo de CRM,6,64.00,1280.00,64000.00,384000.00

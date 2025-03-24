@@ -77,6 +77,8 @@ estado VARCHAR(55) NOT NULL,
 presupuesto_asignado MONEY,
 CONSTRAINT fk_proyectos_cliente_id FOREIGN KEY (cliente_id) REFERENCES clientes(id));;
 
+ALTER TABLE proyectos
+ADD costo_hora MONEY NULL;
 --- Tabla Equipos
 
 CREATE TABLE equipos(

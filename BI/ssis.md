@@ -6,3 +6,8 @@
 
 ## Poblar fac table:
 ![image](https://github.com/user-attachments/assets/8f5a5b2e-11ce-49d1-abb2-d5e1ac642343)
+
+## Proyecto implementado y vinculado a un Job que ejecuta automaticamente
+
+![image](https://github.com/user-attachments/assets/cac415c6-4c27-449e-8caf-5d0a120ec5ac)
+
